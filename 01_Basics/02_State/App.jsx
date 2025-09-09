@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function App() {
-  const [state, setState] = useState("Vaibhav");
+  const [state, setState] = useState("VC");
 
   function change(){
     setState("Akshay")
