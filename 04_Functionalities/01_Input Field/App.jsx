@@ -11,7 +11,7 @@ function App() {
   /*
     we want to build a functionality (UI : input field, h1 tag, button)
     User will type something in the input box and we have display that value which user typed in a 
-    h1 tag below the input field.
+    h1 tag below the input field...
     First of all hold the value which user typed, this can done by using state
     state is initially empty as user types we tell setState() to hold the value of input field
     If setState has hold the value means it is obv. for state
